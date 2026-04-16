@@ -26,6 +26,14 @@ body{
 .container_botao{
     background-color:var(--botao-azul);
     border-radius: 5px;
+    pading: 1em;
+    color: var(--branco-principal);
 
-
+}
+.container{
+    height
+}
+.botao_secundario{
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
 }
